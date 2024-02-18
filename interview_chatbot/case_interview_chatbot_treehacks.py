@@ -20,7 +20,7 @@ def get_response(prompt):
       "repetitive_penalty": 1,
       "update_at": "2024-02-17T19:01:39.423Z"
   }, headers={
-      "Authorization": "Bearer f0f8fe90841d6b1e22ee9f9649962f2ebf402a89bd037483c8a2e4a5e6732256",
+      "Authorization": "Bearer API Key",
   })
   output = res.json()['choices'][0]['message']['content']
   print(output)
