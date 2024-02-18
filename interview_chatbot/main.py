@@ -9,7 +9,7 @@ current_user_message = ""
 
 API_URL = 'https://api.together.xyz/v1/chat/completions'
 headers={
-      "Authorization": "Bearer f0f8fe90841d6b1e22ee9f9649962f2ebf402a89bd037483c8a2e4a5e6732256",
+      "Authorization": "Bearer API KEY",
   }
 
 def get_response(state: State, prompt:str) -> str:
