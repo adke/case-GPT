@@ -12,3 +12,7 @@
 
 ## What's next for case-gpt
 #### Future plans for Case-GPT include expanding case study availability - particularly so by finetuning the LLM to learn from being given a case then framing questions by itself, and integrating additional learning resources. Possible collaboration with consulting firms and educational institutions can also aim improve Case-GPT by bringing more relevant training data to the model, benefiting more individuals seeking effective interview practice.
+
+## More Information
+#### More details about this project can be found from the following link:
+#### https://devpost.com/software/case-gpt
